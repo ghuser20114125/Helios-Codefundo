@@ -6,3 +6,4 @@ Our team is planning to build a system which, based on migration patterns and ec
 1. Where the people from the area affected by the disaster will migrate
 2. Using the aforementioned prediction we hope to also predict the amount of resources that need to be allocated by the region so that        there is no shortage of resources such as food, shelter and clothing.
 
+We are going to use Machine Learning to predict the migration pattern and the amount of resources required to be allocated.
